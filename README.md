@@ -11,8 +11,7 @@ fetch(request)
 }
 )
 ````
-# [星际云网络加速-注册即送50G免费流量](https://www.xjycloud.xyz)
-# [自由云网络加速](https://www.freecloud.pw)
+
 
 # 免责申明：此代码并非原创此处仅作forck备份
 
